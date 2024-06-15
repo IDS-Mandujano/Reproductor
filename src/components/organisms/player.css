@@ -1,0 +1,25 @@
+#player-container{
+    background-color: rgb(53, 63, 88);
+    border-radius: 5px;
+    width: 40%;
+    height: 60vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-flow: wrap column;
+}
+
+#img-container{
+    width: 40%;
+    height: 50%;
+    border-radius: 5px;
+}
+
+#controllers-container{
+    width: 80%;
+    height: 25vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-flow: wrap column;
+}
